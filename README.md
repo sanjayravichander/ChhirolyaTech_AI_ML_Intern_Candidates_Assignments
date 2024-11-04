@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## For reference I will be attaching my streamlit application pics
 ![image](https://github.com/user-attachments/assets/cf68be71-733d-4400-bc96-3ac041e36d9f)
 
-You can also view the video directly: [Watch my video] Screen Recording 2024-11-04 191440.mp4(https://github.com/sanjayravichander/ChhirolyaTech_AI_ML_Intern_Candidates_Assignments/blob/main/Screen%20Recording%202024-11-04%20191440.mp4))
+You can also view the video directly: [Watch my video](https://github.com/sanjayravichander/ChhirolyaTech_AI_ML_Intern_Candidates_Assignments/blob/main/Screen%20Recording%202024-11-04%20191440.mp4)
