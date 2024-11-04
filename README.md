@@ -64,10 +64,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
    scikit-learn
    openai
    sentence_transformers
-Add the README.md and requirements.txt files to the repository.
 
-## Commit the changes and push them to GitHub:
-
-git add README.md requirements.txt
-git commit -m "Add README and requirements files"
-git push origin main
+## For reference I will be attaching my streamlit application pics
+![image](https://github.com/user-attachments/assets/cf68be71-733d-4400-bc96-3ac041e36d9f)
