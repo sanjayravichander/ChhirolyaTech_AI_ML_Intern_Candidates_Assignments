@@ -1,6 +1,6 @@
 streamlit 
 pandas 
 scikit-learn 
-openai
+openai==0.28.0
 sentence_transformers
 python-dotenv
